@@ -1,4 +1,4 @@
-# PRODIGY_WD_05
+# Weather_App_Using_API
 #Task:-Weather App
 🔎 About the Project:
 This Weather App was developed as part of Task-05 for my internship at Prodigy Infotech. The goal was to create a web application that interacts with a public weather API to display current weather information based on either user-inputted location 
